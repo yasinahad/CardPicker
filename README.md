@@ -4,4 +4,4 @@ This is a C# program that defines a class called CardPicker. The class has a sta
 
 This simple console application uses a Random generate method, a if Statements, for & foreach statement, concatenation of array and int.TryParse.
 
-Inheritance of the CardPicker class in this project is used for the WPF application called PickACardUI.
+CardPicker class in this project is used for the WPF application called PickACardUI.
